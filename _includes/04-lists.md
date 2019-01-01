@@ -5,6 +5,7 @@
 * :squirrel:
 * :eyes:
 * :droplet:
-* :100:
-* :please hire me:
+* :100:  
+* :please hire me:  
 frick why don't u work
+:100:
