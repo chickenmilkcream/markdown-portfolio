@@ -23,3 +23,6 @@ layout: default
 <br>
 
 {% include 06-extras.md %}
+
+<br>
+
